@@ -101,24 +101,3 @@ voidValue.C = {
 var m = voidValue.vaild(data);
 console.log(m);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
